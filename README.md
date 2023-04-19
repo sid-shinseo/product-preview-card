@@ -24,7 +24,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-![here is the link to the project](https://product-preview-card-virid.vercel.app)
+here is [the link](https://product-preview-card-virid.vercel.app) to the project
 
 
 ## My process
